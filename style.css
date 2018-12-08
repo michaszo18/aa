@@ -1,0 +1,43 @@
+* {
+    background-color: rgb(51, 5, 5);
+    color: #ffffff;
+}
+
+header {
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+.poziomNajebania {
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    justify-content: center;
+}
+
+h2 {
+    font-size: 4rem;
+}
+
+.alert {
+    text-align: center;
+    font-size: 2.3rem;
+}
+
+.header {
+    width: 300px;
+    height: 300px;
+}
+
+.control {
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    justify-content: center;
+}
+
+.btn {
+    background-color: #ffffff;
+    color: rgb(51, 5, 5);
+    padding: 10px;
+}
